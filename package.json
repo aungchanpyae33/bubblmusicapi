@@ -1,0 +1,13 @@
+{
+  "name": "bubbleapi",
+  "scripts": {
+    "start": "vercel dev",
+    "deploy": "vercel"
+  },
+  "dependencies": {
+    "hono": "^4.6.11"
+  },
+  "devDependencies": {
+    "vercel": "^32.4.1"
+  }
+}
